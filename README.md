@@ -26,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[Emirhan Yıldızhan](https://app.patika.dev/Yldzhn)
